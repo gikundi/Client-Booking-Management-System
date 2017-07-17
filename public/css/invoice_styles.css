@@ -1,0 +1,606 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#background 
+{ 
+    left: 0px; 
+    top: 0px; 
+    position: relative; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 1072px;
+    height: 1619px; 
+    overflow: hidden;
+    z-index:0;
+} 
+
+#Layer0 
+{ 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    width: 1072px;
+    height: 1619px;
+    z-index:1;
+} 
+
+#left 
+{ 
+    left: 683px; 
+    top: 266px; 
+    position: absolute; 
+    width: 20px;
+    height: 12px;
+    z-index:15;
+} 
+
+#email 
+{ 
+    left: 78px; 
+    top: 339px; 
+    position: absolute; 
+    width: 55px;
+    height: 13px;
+    z-index:38;
+} 
+
+#Layer1 
+{ 
+    left: 159px; 
+    top: 421px; 
+    position: absolute; 
+    width: 720px;
+    height: 656px;
+    z-index:2;
+} 
+
+#layer_02102015 
+{ 
+    left: 58px; 
+    top: 626px; 
+    position: absolute; 
+    width: 116px;
+    height: 18px;
+    z-index:3;
+} 
+
+#LINETTEWANJA 
+{
+    left: 286px;
+    top: 626px;
+    position: absolute;
+    width: 214px;
+    height: 17px;
+    z-index: 4;
+} 
+
+#MPESA 
+{ 
+    left: 553px; 
+    top: 626px; 
+    position: absolute; 
+    width: 150px;
+    height: 17px;
+    z-index:5;
+} 
+
+#layer_150000 
+{ 
+    left: 910px; 
+    top: 1180px; 
+    position: absolute; 
+    width: 85px;
+    height: 19px;
+    z-index:6;
+} 
+
+#layer_50000 
+{ 
+    left: 858px; 
+    top: 626px; 
+    position: absolute; 
+    width: 74px;
+    height: 19px;
+    z-index:7;
+} 
+
+#layer_50000_0 
+{
+    left: 910px;
+    top: 1205px;
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    z-index: 8;
+} 
+
+#layer_100000 
+{ 
+    left: 910px; 
+    top: 1231px; 
+    position: absolute; 
+    width: 85px;
+    height: 19px;
+    z-index:9;
+} 
+
+#layer_001
+{ 
+    left: 971px; 
+    top: 1335px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:10;
+} 
+
+#layer_00 
+{ 
+    left: 1020px; 
+    top: 1235px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:10;
+} 
+
+#layer_03 
+{ 
+    left: 1020px; 
+    top: 1210px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:11;
+} 
+
+#layer_02 
+{ 
+    left: 1020px; 
+    top: 1180px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:12;
+} 
+
+#layer_01 
+{ 
+    left: 971px; 
+    top: 626px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:13;
+} 
+
+
+#00copy 
+{ 
+    left: 971px; 
+    top: 1303px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:11;
+} 
+
+#00copy2 
+{ 
+    left: 972px; 
+    top: 1273px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:12;
+} 
+
+#00copy3 
+{ 
+    left: 971px; 
+    top: 618px; 
+    position: absolute; 
+    width: 26px;
+    height: 16px;
+    z-index:13;
+} 
+
+#borders 
+{ 
+    left: 60px; 
+    top: 586px; 
+    position: absolute; 
+    width: 1002px;
+    height: 669px;
+    z-index:14;
+} 
+
+
+
+#tablepayments 
+{ 
+
+    font-size: 20px;
+    left: 86px; 
+    top: 598px; 
+    position: absolute; 
+    width: 990px;
+    height: 220px;
+    z-index:14;
+    border: 0;
+
+} 
+
+
+
+#SUBTOTAL 
+{ 
+    left: 768px; 
+    top: 1185px; 
+    position: absolute; 
+    width: 98px;
+    height: 14px;
+    z-index:15;
+} 
+
+#PAID 
+{ 
+    left: 818px; 
+    top: 1210px; 
+    position: absolute; 
+    width: 42px;
+    height: 14px;
+    z-index:16;
+} 
+
+#OUTSTANDING 
+{ 
+    left: 730px; 
+    top: 1235px; 
+    position: absolute; 
+    width: 134px;
+    height: 14px;
+    z-index:17;
+} 
+
+#UNITPRICE 
+{ 
+    left: 707px; 
+    top: 578px; 
+    position: absolute; 
+    width: 91px;
+    height: 12px;
+    z-index:18;
+} 
+
+#AMOUNT 
+{ 
+    left: 959px; 
+    top: 548px; 
+    position: absolute; 
+    width: 72px;
+    height: 12px;
+    z-index:19;
+} 
+
+#KSHS 
+{ 
+    left: 903px; 
+    top: 584px; 
+    position: absolute; 
+    width: 44px;
+    height: 12px;
+    z-index:20;
+} 
+
+#Cts 
+{ 
+    left: 1020px; 
+    top: 583px; 
+    position: absolute; 
+    width: 24px;
+    height: 12px;
+    z-index:21;
+} 
+
+#DATE 
+{ 
+    left: 91px; 
+    top: 573px; 
+    position: absolute; 
+    width: 53px;
+    height: 15px;
+    z-index:22;
+} 
+
+#PAIDBY 
+{ 
+    left: 316px; 
+    top: 580px; 
+    position: absolute; 
+    width: 79px;
+    height: 15px;
+    z-index:23;
+} 
+
+#MODEOFPAYMENT 
+{ 
+    left: 592px; 
+    top: 581px; 
+    position: absolute; 
+    width: 198px;
+    height: 15px;
+    z-index:24;
+} 
+
+#receiptborder 
+{
+    left: 57px;
+    top: 245px;
+    position: absolute;
+    width: 967px;
+    height: 235px;
+    z-index: 25;
+} 
+#rings 
+{ 
+    left: 369px; 
+    top: 1317px; 
+    position: absolute; 
+    width: 690px;
+    height: 106px;
+    z-index:27;
+} 
+#couple 
+{ 
+    left: 88px; 
+    top: 1225px; 
+    position: absolute; 
+    width: 146px;
+    height: 195px;
+    z-index:28;
+} 
+
+#layer_2252015 
+{
+    left: 858px;
+    top: 336px;
+    position: absolute;
+    width: 97px;
+    height: 17px;
+    z-index: 28;
+} 
+
+#layer_1200 
+{
+    left: 858px;
+    top: 305px;
+    position: absolute;
+    width: 44px;
+    height: 13px;
+    z-index: 29;
+} 
+
+#Date 
+{ 
+    left: 786px; 
+    top: 340px; 
+    position: absolute; 
+    width: 48px;
+    height: 13px;
+    z-index:30;
+} 
+
+#ReceiptNo 
+{ 
+    left: 738px; 
+    top: 309px; 
+    position: absolute; 
+    width: 103px;
+    height: 17px;
+    z-index:31;
+} 
+
+#Receipt 
+{ 
+    left: 778px; 
+    top: 264px; 
+    position: absolute; 
+    width: 125px;
+    height: 32px;
+    z-index:32;
+} 
+
+#contacts 
+{ 
+    left: 778px; 
+    top: 30px; 
+    position: absolute; 
+    width: 275px;
+    height: 117px;
+    z-index:33;
+} 
+
+
+#print
+{ 
+    left: 708px; 
+    top: 1px; 
+    position: absolute; 
+    width: 275px;
+    height: 117px;
+    z-index:33;
+} 
+
+
+#alkologo 
+{ 
+    left: 13px; 
+    top: 20px; 
+    position: absolute; 
+    width: 350px;
+    height: 137px;
+    z-index:34;
+} 
+
+#CLIENT 
+{ 
+    left: 76px; 
+    top: 267px; 
+    position: absolute; 
+    width: 61px;
+    height: 13px;
+    z-index:35;
+} 
+
+#PHONE 
+{ 
+    left: 78px; 
+    top: 304px; 
+    position: absolute; 
+    width: 63px;
+    height: 13px;
+    z-index:36;
+} 
+
+#denisgikundi05gmailc 
+{
+    left: 169px;
+    top: 334px;
+    position: absolute;
+    width: 249px;
+    height: 20px;
+    z-index: 42;
+} 
+
+#VIDEOcopy 
+{
+    left: 169px;
+    top: 368px;
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    z-index: 43;
+} 
+
+
+#PACKAGE 
+{ 
+    left: 77px; 
+    top: 373px; 
+    position: absolute; 
+    width: 300px;
+    height: 13px;
+    z-index:37;
+} 
+
+#DenisGikundi 
+{
+    left: 164px;
+    top: 260px;
+    position: absolute;
+    width: 270px;
+    height: 17px;
+    z-index: 38;
+} 
+
+#layer_0704118721 
+{
+    left: 167px;
+    top: 298px;
+    position: absolute;
+    width: 107px;
+    height: 15px;
+    z-index: 39;
+} 
+
+#VIDEO 
+{
+    left: 171px;
+    top: 334px;
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    z-index: 40;
+} 
+
+#layer_41 
+{
+    left: 400px;
+    top: 266px;
+    position: absolute;
+    width: 20px;
+    height: 12px;
+    z-index: 41;
+} 
+
+#DenisGikundi {
+    font-size: 22px;
+}
+#layer_0704118721 {
+    font-size: 22px;
+}
+#denisgikundi05gmailc {
+    font-size: 21px;
+}
+#layer_1200 {
+    font-size: 21px;
+}
+#layer_2252015 {
+    font-size: 21px;
+}
+#layer_02102015 {
+    font-size: 21px;
+}
+#LINETTEWANJA {
+    font-size: 21px;
+}
+#MPESA {
+    font-size: 21px;
+}
+#layer_50000 {
+    font-size: 21px;
+}
+#00copy3 {
+    font-size: 21px;
+}
+#layer_150000 {
+    font-size: 20px;
+}
+#layer_50000_0 {
+    font-size: 20px;
+}
+#layer_100000 {
+    font-size:20px;
+    
+}
+#00copy2 {
+    font-size: 20px;
+}
+#layer_00 {
+    font-size: 20px;
+}
+
+
+#VIDEO {
+    font-size: 21px;
+}
+
+#VIDEOcopy{
+    font-size: 21px;
+
+
+}
+#layer_01 {
+    font-size: 20px;
+}
+#layer_02 {
+    font-size: 20px;
+}
+#layer_03 {
+    font-size: 20px;
+}
+
+#table {border: none;}

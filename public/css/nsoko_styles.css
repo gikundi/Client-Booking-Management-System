@@ -1,0 +1,136 @@
+
+
+
+ body {
+	margin: 0;
+	padding: 0;
+        background-color: #000000;    
+ }
+ 
+
+
+
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1000px;
+	 height: 1300px; 
+	 overflow: hidden;
+	 z-index:0;
+         background-color: #161616;
+	} 
+
+ #Rectangle1 
+{ 
+	 left: -934px; 
+	 top: -1055px; 
+	 position: absolute; 
+	 width: 3115px;
+	 height: 3515px;
+	 z-index:1;
+} 
+
+ #Layer4 
+{ 
+	 left: 33px; 
+	 top: 7px; 
+	 position: absolute; 
+	 width: 949px;
+	 height: 123px;
+	 z-index:2;
+} 
+
+ #Layer3 
+{ 
+	 left: -2px; 
+	 top: 201px; 
+	 position: absolute; 
+	 width: 1003px;
+	 height: 1111px;
+	 z-index:3;
+} 
+
+ #WEDDINGPACKAGE 
+{ 
+	 left: 332px; 
+	 top: 152px; 
+	 position: absolute; 
+	 width: 355px;
+	 height: 27px;
+	 z-index:4;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 28px; 
+	 top: 733px; 
+	 position: absolute; 
+	 width: 444px;
+	 height: 32px;
+	 z-index:5;
+} 
+
+ #Rectangle3 
+{ 
+	 left: 147px; 
+	 top: 838px; 
+	 position: absolute; 
+	 width: 404px;
+	 height: 61px;
+	 z-index:6;
+} 
+
+ #AllinonePackage 
+{ 
+	 left: 172px; 
+	 top: 728px; 
+	 position: absolute; 
+	 width: 308px;
+	 height: 38px;
+	 z-index:7;
+} 
+
+ #ThePackageaboveisfor 
+{ 
+	 left: 165px; 
+	 top: 852px; 
+	 position: absolute; 
+	 width: 377px;
+	 height: 36px;
+	 z-index:8;
+} 
+
+ #Rectangle4 
+{ 
+	 left: 449px; 
+	 top: 1018px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 31px;
+	 z-index:9;
+} 
+
+ #season 
+{ 
+	 left: 451px; 
+	 top: 1023px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 10px;
+	 z-index:10;
+} 
+
+ #BOOKNOW 
+{ 
+	 left: 447px; 
+	 top: 678px; 
+	 position: absolute; 
+	 width: 521px;
+	 height: 208px;
+	 z-index:11;
+} 
